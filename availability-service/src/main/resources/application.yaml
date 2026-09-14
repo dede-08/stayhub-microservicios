@@ -1,3 +1,5 @@
 spring:
   application:
     name: availability-service
+  config:
+    import: "configserver:http://localhost:8888"
