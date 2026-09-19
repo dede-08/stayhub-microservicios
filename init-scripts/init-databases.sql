@@ -1,0 +1,5 @@
+CREATE DATABASE userdb;
+CREATE DATABASE propertydb;
+CREATE DATABASE availabilitydb;
+CREATE DATABASE bookingdb;
+CREATE DATABASE paymentdb;
